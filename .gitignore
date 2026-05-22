@@ -23,9 +23,6 @@ env/
 .AppleDouble
 .LSOverride
 
-# Submission ZIPs
-*.zip
-
 # Large model artifacts
 *.pt
 *.pth
